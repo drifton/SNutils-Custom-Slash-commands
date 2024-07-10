@@ -1,1 +1,1 @@
-# SNutils-Custom-Slash-commands
+# My slashcommand Archive
